@@ -1,0 +1,33 @@
+.videoCard {    
+    width:320px;
+    height: 330px;
+    background-color: #1E1E1E;
+    /* border:1px solid black; */
+}
+
+.thumbnail {
+
+    width:320px;
+    height: 180px;    
+}
+
+.info{    
+    
+    display: flex;
+    flex-direction:column;
+    width: fit-content;    
+    row-gap: 12px;;
+    margin:0 auto;
+    margin:18px;
+       
+    
+}
+
+.caption {
+    color:white;
+    line-height: 25px;
+}
+
+.channelName{
+    color:grey;
+}

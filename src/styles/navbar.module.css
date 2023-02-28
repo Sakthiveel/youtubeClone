@@ -1,0 +1,17 @@
+nav {
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    padding:10px;
+    width: 100%;
+    height: 50px;
+    align-items: center;
+    position:sticky; 
+    top:0;
+    }
+
+nav img {
+    width: 50px;
+}
+
+nav input {}

@@ -1,0 +1,9 @@
+.sideBar {
+    display: flex;
+    width:200px; 
+    height:90vh ;   
+    background-color:black;
+    flex-direction: column;
+    border-right:1px solid grey;
+    overflow-x: hidden;
+}

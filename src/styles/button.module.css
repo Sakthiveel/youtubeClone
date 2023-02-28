@@ -1,0 +1,21 @@
+.button {
+    display:flex;
+    align-items: center;
+    width:80%;
+    align-self: center;
+    margin-bottom:20px;
+    border-radius: 30px 30px;
+    column-gap: 15px;
+    padding:7px 15px;
+
+}
+.button:nth-child(1){
+    margin-top:20px ;
+}
+
+
+.button > span {
+
+    color:red;
+    
+}
