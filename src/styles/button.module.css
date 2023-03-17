@@ -7,8 +7,8 @@
     border-radius: 30px 30px;
     column-gap: 15px;
     padding:7px 15px;
-    background-color: red;
-        /* // I am here */
+    background-color: white;
+        
 }
 .button:nth-child(1){
     margin-top:20px ;
