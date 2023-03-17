@@ -2,7 +2,6 @@ import React, { useEffect, useState } from "react";
 import ChannelCard from "./ChannelCard";
 import VideosContainer from "./VideosContainer";
 import classes from '../styles/channelDetail.module.css';
-import demoImage from './unnamed.jpg';
 import { useParams } from "react-router-dom";
 import { fetchChannelData, fetchChannelVidoes, fetchFromAPI } from "../utils/fetchFromAPI";
 import VideoCard from "./VideoCard";
